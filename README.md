@@ -7,8 +7,10 @@
 
 # E-commerce-Sales-Analysis-Dashboard-Using-PowerBI
  # Page 1
- ![Screenshot 2024-05-19 125118](https://github.com/abhishek0112cs221008/Power-BI-Projects/assets/149716322/62b8fe34-a971-4cff-bbaf-ed3786d4de86)
+ ![Screenshot 2024-05-19 125953](https://github.com/abhishek0112cs221008/Power-BI-Projects/assets/149716322/4c70e927-8d47-45f8-b8a9-29d9ee3d2e69)
+
  # Page 2
- ![Screenshot 2024-05-19 125147](https://github.com/abhishek0112cs221008/Power-BI-Projects/assets/149716322/13ebd2e0-295e-465f-9b42-b1144d173677)
+ ![Screenshot 2024-05-19 125941](https://github.com/abhishek0112cs221008/Power-BI-Projects/assets/149716322/154ed68e-7129-4151-ba1f-969a7700c2e0)
+
  # Page 3
- ![Screenshot 2024-05-19 125213](https://github.com/abhishek0112cs221008/Power-BI-Projects/assets/149716322/be4eb460-d10e-4b9d-8446-97aef33ff7d7)
+ ![Screenshot 2024-05-19 125928](https://github.com/abhishek0112cs221008/Power-BI-Projects/assets/149716322/c0418e56-1a95-4074-871d-cc08b925d85a)
