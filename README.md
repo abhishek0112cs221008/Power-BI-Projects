@@ -14,3 +14,12 @@
 
  # Page 3
  ![Screenshot 2024-05-19 125928](https://github.com/abhishek0112cs221008/Power-BI-Projects/assets/149716322/c0418e56-1a95-4074-871d-cc08b925d85a)
+
+ # E-Commerce (0112cs22100............pbix)
+  # E-Commerce 1
+ ![Screenshot 2024-07-14 121842](https://github.com/user-attachments/assets/79060261-be1c-4900-a3de-8546172095c6)
+ # E-Commerce 1
+![Screenshot 2024-07-14 121903](https://github.com/user-attachments/assets/430e1757-b900-43af-969f-d8ae856df616)
+
+
+
